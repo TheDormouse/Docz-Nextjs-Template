@@ -1,3 +1,3 @@
 export default {
-    title: 'Next.js Docz',
+    title: 'Next.js + Docz',
 }
